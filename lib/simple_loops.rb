@@ -35,4 +35,4 @@ def return_string_array(array)
   end
 end
 
-return_string_array(1, 2, 3)
+return_string_array([1, 2, 3])
