@@ -34,3 +34,5 @@ def return_string_array(array)
     counter += 1
   end
 end
+
+return_string_array(1, 2, 3)
